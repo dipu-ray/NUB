@@ -1,1 +1,1 @@
-<h1 align="center">Structured pProgramming Language</h1>
+<h1 align="center">Structured Programming Language</h1>
