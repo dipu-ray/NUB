@@ -3,7 +3,7 @@ Department: **CSE** <br>
 Batch: **55** <br>
 University Name: **Northern University Bangladesh**
 
-<hr><br>
+<hr>
 
 **Semester Wise Book Lists:**
 <details>
