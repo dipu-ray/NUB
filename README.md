@@ -8,7 +8,7 @@ University Name: **Northern University Bangladesh**
 **Semester Wise Book Lists:**
 <details>
   <summary>1st Semester</summary>
-    - Structured Programming Language
+    - Structured Programming Language <br>
 </details>
 
 <details>
