@@ -2,6 +2,7 @@
 #include <iomanip>
 using namespace std;
 
+// Write a program to take a floating-point number as input and display it with two decimal places
 int main() {
     float num;
     cout << "Enter a floating-point number: ";

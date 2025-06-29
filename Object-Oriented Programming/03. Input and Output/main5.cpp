@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+// Write a program to take a sentence as input and display it using getline()
 int main() {
     string sentence;
     cout << "Enter a sentence: ";
