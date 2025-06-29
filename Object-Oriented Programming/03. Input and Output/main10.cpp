@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program that takes three inputs and displays them in different data types
 int main() {
     int intVal;
     float floatVal;
