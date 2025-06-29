@@ -1,7 +1,8 @@
+// Write a function to check if a number is prime
+
 #include <iostream>
 using namespace std;
 
-// Write a function to check if a number is prime
 bool isPrime(int n) {
     if (n <= 1) return false;
     for (int i = 2; i <= n/2; i++) {
