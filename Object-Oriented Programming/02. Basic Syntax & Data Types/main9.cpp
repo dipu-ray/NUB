@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program that performs bitwise AND, OR, and XOR operations on two numbers
 int main() {
     int a, b;
     cout << "Enter two integers: ";

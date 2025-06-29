@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Create a program that calculates the power of a number without using the pow() function
 int main() {
     int base, exponent, result = 1;
     cout << "Enter base and exponent: ";
