@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to compute the area and circumference of a circle using float data type
 int main() {
     float radius, area, circumference;
     const float PI = 3.1416;

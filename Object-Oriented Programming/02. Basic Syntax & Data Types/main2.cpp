@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to take two integer inputs and perform all arithmetic operations on them
 int main() {
     int a, b;
     cout << "Enter two integers: ";
