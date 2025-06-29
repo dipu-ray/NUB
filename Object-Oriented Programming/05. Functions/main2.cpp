@@ -1,7 +1,8 @@
+// Write a function to find the factorial of a number
+
 #include <iostream>
 using namespace std;
 
-// Write a function to find the factorial of a number
 int factorial(int n) {
     int fact = 1;
     for (int i = 1; i <= n; i++)

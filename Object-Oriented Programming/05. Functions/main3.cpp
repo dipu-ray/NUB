@@ -1,7 +1,8 @@
+// Create a function to swap two numbers using call by reference
+
 #include <iostream>
 using namespace std;
 
-// Create a function to swap two numbers using call by reference
 void swap(int &x, int &y) {
     int temp = x;
     x = y;

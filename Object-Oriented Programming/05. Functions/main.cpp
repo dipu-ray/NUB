@@ -1,7 +1,8 @@
+// Write a function to return the sum of two numbers
+
 #include <iostream>
 using namespace std;
 
-// Write a function to return the sum of two numbers
 int sum(int a, int b) {
     return a + b;
 }

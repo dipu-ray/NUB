@@ -1,7 +1,8 @@
+// Write a recursive function to calculate the Fibonacci series
+
 #include <iostream>
 using namespace std;
 
-// Write a recursive function to calculate the Fibonacci series
 int fibonacci(int n) {
     if (n == 0) return 0;
     if (n == 1) return 1;
