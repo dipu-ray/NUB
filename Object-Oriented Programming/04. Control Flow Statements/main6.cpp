@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to check if a character is a vowel or consonant using switch
 int main() {
     char ch;
     cout << "Enter a character: ";

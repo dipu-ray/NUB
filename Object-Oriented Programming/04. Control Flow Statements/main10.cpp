@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to check if a number is prime
 int main() {
     int n, flag = 0;
     cout << "Enter a number: ";
