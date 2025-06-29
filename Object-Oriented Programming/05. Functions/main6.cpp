@@ -1,7 +1,8 @@
+// Write a function to calculate the greatest common divisor (GCD) of two numbers
+
 #include <iostream>
 using namespace std;
 
-// Write a function to calculate the greatest common divisor (GCD) of two numbers
 int gcd(int a, int b) {
     while (b != 0) {
         int temp = b;
