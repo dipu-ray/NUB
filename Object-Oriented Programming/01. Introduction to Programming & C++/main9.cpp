@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a c++ program to take a user input for two integers and display their product
 int main() {
     int num1, num2, product;
 

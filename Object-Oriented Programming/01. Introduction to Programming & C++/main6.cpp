@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to convert temperature from Celsius to Fahrenheit
 int main() {
     float celsius, fahrenheit;
 

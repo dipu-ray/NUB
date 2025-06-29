@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Create a simple calculator that performs addition, subtraction, multiplication, and division
 int main() {
     float num1, num2;
     char op;
