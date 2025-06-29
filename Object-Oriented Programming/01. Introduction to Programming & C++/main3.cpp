@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Create a program that prints the sum of two numbers entered by the user
 int main() {
     int num1, num2, sum;
 
