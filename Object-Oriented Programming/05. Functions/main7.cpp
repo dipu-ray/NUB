@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a function to convert Celsius to Fahrenheit
 float celsiusToFahrenheit(float c) {
     return (c * 9 / 5) + 32;
 }

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a function to return the maximum element in an array
 int findMax(int arr[], int size) {
     int max = arr[0];
     for (int i = 1; i < size; i++) {

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a function to calculate the power of a number.
 int power(int base, int exp) {
     int result = 1;
     for (int i = 0; i < exp; i++)
