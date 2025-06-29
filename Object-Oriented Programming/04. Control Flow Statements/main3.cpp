@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Create a program that finds the maximum of three numbers using if-else
 int main() {
     int a, b, c;
     cout << "Enter three numbers: ";

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to check if a number is positive, negative, or zero
 int main() {
     int num;
     cout << "Enter a number: ";

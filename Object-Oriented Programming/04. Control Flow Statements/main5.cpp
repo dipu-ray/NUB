@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Create a program to display a menu and take user input using a switch statement
 int main() {
     int choice;
     cout << "Menu:\n1. Addition\n2. Subtraction\n3. Multiplication\nEnter your choice: ";

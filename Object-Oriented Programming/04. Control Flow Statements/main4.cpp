@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to check if a given year is a leap year
 int main() {
     int year;
     cout << "Enter a year: ";
