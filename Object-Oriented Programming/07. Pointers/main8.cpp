@@ -1,3 +1,5 @@
+// Write a program to create and delete a dynamic array using new and delete
+
 #include <iostream>
 using namespace std;
 

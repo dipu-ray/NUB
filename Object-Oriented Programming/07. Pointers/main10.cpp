@@ -1,3 +1,5 @@
+// Write a program to find the largest number in an array using pointers
+
 #include <iostream>
 using namespace std;
 

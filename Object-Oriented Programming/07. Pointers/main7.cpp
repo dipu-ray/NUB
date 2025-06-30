@@ -1,3 +1,5 @@
+// Write a program to demonstrate pointer arithmetic
+
 #include <iostream>
 using namespace std;
 

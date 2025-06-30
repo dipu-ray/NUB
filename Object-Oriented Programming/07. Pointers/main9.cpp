@@ -1,3 +1,5 @@
+// Write a program to copy a string using pointers.
+
 #include <iostream>
 using namespace std;
 

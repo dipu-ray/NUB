@@ -1,3 +1,5 @@
+// Write a program to find the length of a string using pointers
+
 #include <iostream>
 using namespace std;
 
