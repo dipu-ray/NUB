@@ -1,3 +1,5 @@
+// Write a program to read content from a file
+
 #include <iostream>
 #include <fstream>
 #include <string>

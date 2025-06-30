@@ -1,3 +1,5 @@
+// Write a program to count the number of words in a file
+
 #include <iostream>
 #include <fstream>
 #include <string>

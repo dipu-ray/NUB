@@ -1,3 +1,5 @@
+// Write a program to create a file and write text into it
+
 #include <iostream>
 #include <fstream>
 using namespace std;

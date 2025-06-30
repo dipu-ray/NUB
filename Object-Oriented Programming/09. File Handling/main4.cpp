@@ -1,3 +1,5 @@
+// Create a program that copies content from one file to another
+
 #include <iostream>
 #include <fstream>
 #include <string>
