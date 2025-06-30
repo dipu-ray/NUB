@@ -1,3 +1,5 @@
+// Write a program to demonstrate #undef directive
+
 #include <iostream>
 #define VALUE 10
 #undef VALUE

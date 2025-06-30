@@ -1,3 +1,5 @@
+// Create a program using macro functions
+
 #include <iostream>
 #define SQUARE(x) ((x)*(x))
 using namespace std;
