@@ -1,3 +1,5 @@
+// Write a program to perform matrix addition
+
 #include <iostream>
 using namespace std;
 

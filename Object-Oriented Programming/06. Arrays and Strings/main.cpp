@@ -1,3 +1,5 @@
+// Write a program to take an array of 5 integers and print them
+
 #include <iostream>
 using namespace std;
 
