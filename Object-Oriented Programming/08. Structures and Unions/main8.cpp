@@ -1,3 +1,5 @@
+// Create a program to store the details of multiple employees using structures
+
 #include <iostream>
 using namespace std;
 

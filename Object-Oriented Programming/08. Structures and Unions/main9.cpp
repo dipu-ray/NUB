@@ -1,3 +1,5 @@
+// Write a program to take user input and display the details using structures
+
 #include <iostream>
 using namespace std;
 

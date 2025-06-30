@@ -1,3 +1,5 @@
+// Write a program to compare two structures
+
 #include <iostream>
 using namespace std;
 

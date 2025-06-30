@@ -1,3 +1,5 @@
+// Define a union and demonstrate memory sharing between members
+
 #include <iostream>
 using namespace std;
 
