@@ -1,3 +1,5 @@
+// Write a program to concatenate two strings
+
 #include <iostream>
 #include <cstring>
 using namespace std;
