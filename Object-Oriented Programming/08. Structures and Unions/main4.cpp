@@ -1,3 +1,5 @@
+// Create a structure for complex numbers and perform addition
+
 #include <iostream>
 using namespace std;
 

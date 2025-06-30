@@ -1,3 +1,5 @@
+// Create a structure to store the details of an employee and print them
+
 #include <iostream>
 using namespace std;
 

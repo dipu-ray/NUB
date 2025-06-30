@@ -1,3 +1,5 @@
+// Write a program to store multiple students’ data using an array of structures
+
 #include <iostream>
 using namespace std;
 

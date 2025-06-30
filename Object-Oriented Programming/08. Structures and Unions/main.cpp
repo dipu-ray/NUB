@@ -1,3 +1,5 @@
+// Write a program to define a structure for student details (name, roll, marks) and display them
+
 #include <iostream>
 using namespace std;
 
