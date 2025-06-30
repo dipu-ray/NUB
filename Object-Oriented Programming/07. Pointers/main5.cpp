@@ -1,3 +1,5 @@
+// Write a program to reverse a string using pointers
+
 #include <iostream>
 #include <cstring>
 using namespace std;

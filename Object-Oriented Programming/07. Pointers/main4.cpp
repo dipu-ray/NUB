@@ -1,3 +1,5 @@
+// Write a program to find the sum of array elements using pointers
+
 #include <iostream>
 using namespace std;
 

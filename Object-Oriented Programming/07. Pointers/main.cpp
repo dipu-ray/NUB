@@ -1,3 +1,5 @@
+// Write a program to declare a pointer and print its address
+
 #include <iostream>
 using namespace std;
 
