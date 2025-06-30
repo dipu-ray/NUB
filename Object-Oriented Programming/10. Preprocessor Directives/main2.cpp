@@ -1,3 +1,5 @@
+// Write a program using #ifdef to check if a macro is defined
+
 #include <iostream>
 #define DEBUG
 using namespace std;

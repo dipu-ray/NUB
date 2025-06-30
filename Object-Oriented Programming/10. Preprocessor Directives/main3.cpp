@@ -1,3 +1,5 @@
+// Write a program using #ifndef to prevent multiple inclusions of a header file
+
 #ifndef MYHEADER_H
 #define MYHEADER_H
 void showMessage();

@@ -1,3 +1,5 @@
+// Write a program using #define to define a constant and use it
+
 #include <iostream>
 #define PI 3.1416
 using namespace std;
