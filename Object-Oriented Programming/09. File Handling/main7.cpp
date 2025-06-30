@@ -1,3 +1,5 @@
+// Write a program to search for a specific word in a file
+
 #include <iostream>
 #include <fstream>
 #include <string>

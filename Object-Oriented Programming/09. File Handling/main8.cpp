@@ -1,3 +1,5 @@
+// Create a program that writes an array of integers to a file and then reads it back
+
 #include <iostream>
 #include <fstream>
 using namespace std;

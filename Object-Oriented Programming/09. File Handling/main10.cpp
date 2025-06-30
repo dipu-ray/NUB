@@ -1,3 +1,5 @@
+// Write a program to delete a file
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
