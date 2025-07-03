@@ -7,8 +7,10 @@
     - `Classes` and `Objects`
     - Objects are entities in the real world. Likes: `Pen`, `Laptops`, `Phones` etc.
     - Class is like a blueprint of these entities.
-        - Example: BMW
+        - Example: `Mercedes-Benz`
             - `Cars 1`
             - `Cars 2`
             - `Cars 3`
             - `Unlimited`
+    - One more example:
+        - <img src="./images/draw.png" width=500>
