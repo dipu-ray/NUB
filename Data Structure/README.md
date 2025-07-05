@@ -5,4 +5,4 @@ Session: **Summer 2025** <br>
 Section: **2F** <br>
 Semester: **2nd** <br>
 
-**Topics:** Arrays, Linked Lists, Stacks, Queues etc.
+**Topics:** Arrays, Functions, Recursions, Structures, Linked Lists, Stacks, Queues etc.
