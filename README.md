@@ -12,8 +12,8 @@ University Name: **Northern University Bangladesh**
 </details>
 
 <details>
-  <summary>2st Semester</summary>
+  <summary>2nd Semester</summary>
     - Object-Oriented Programming <br>
-    - Data Structure <br>
+    - Data Structures <br>
     - Software Development I <br>
 </details>
