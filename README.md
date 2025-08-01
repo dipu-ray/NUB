@@ -40,4 +40,3 @@ University Name: **Northern University Bangladesh**
     - Object-Oriented Programming <br>
     - Data Structure <br>
     - Software Development I <br>
-</details>
