@@ -43,4 +43,3 @@ University Name: **Northern University Bangladesh**
 </details>
 
 <details>
-  <summary>2st Semester</summary>
