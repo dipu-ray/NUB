@@ -21,4 +21,3 @@ University Name: **Northern University Bangladesh**
 
 
 
-<details>
