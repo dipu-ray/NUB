@@ -34,5 +34,3 @@ University Name: **Northern University Bangladesh**
     - Data Structure <br>
     - Software Development I <br>
 </details>
-
-<details>
