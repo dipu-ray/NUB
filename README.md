@@ -52,4 +52,3 @@ University Name: **Northern University Bangladesh**
 <details>
   <summary>2st Semester</summary>
     - Object-Oriented Programming <br>
-    - Data Structure <br>
