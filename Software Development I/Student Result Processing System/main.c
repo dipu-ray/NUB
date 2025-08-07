@@ -28,3 +28,31 @@ void calculateResult(struct Student *s) {
     else
         s->grade = 'F';
 }
+
+// Function to add a student record
+void addStudent(struct Student students[], int *count) {
+    if (*count >= MAX_STUDENTS) {
+        printf("Cannot add more students. Limit reached.\n");
+        return;
+    }
+
+    struct Student s;
+
+    printf("Enter Student ID: ");
+    scanf("%d", &s.id);
+    getchar(); // consume newline
+
+    printf("Enter Student Name: ");
+    fgets(s.name, sizeof(s.name), stdin);
+    s.name[strcspn(s.name, "\n")] = 0; // remove trailing newline
+
+    printf("Enter marks for 3 subjects (separated by space): ");
+    scanf("%d %d %d", &s.marks[0], &s.marks[1], &s.marks[2]);
+
+    calculateResult(&s);
+
+    students[*count] = s;
+    (*count)++;
+
+    printf("Student added successfully!\n");
+}
