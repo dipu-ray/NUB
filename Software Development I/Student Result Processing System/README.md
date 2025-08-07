@@ -1,5 +1,4 @@
 # Student Result Processing System (C Console Application)
-
 > A simple and interactive console-based program to manage student records, calculate results, and display grades.
 
 ---
@@ -72,3 +71,8 @@ This project is a great way to practice fundamental programming concepts such as
 - File handling (for future versions)
 - Function design and modular code
 - User input and console output formatting
+
+---
+
+## 🙌 Acknowledgments
+> Special thanks to all open-source contributors and tutorials that helped in building this project.
