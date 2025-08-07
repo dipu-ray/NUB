@@ -63,3 +63,12 @@ This project is perfect for beginners to practice C programming fundamentals, in
 - Support for more subjects or dynamic number of subjects.
 - Better input validation and error handling.
 - GUI version for easier use.
+
+---
+
+## 💡 Why This Project?
+This project is a great way to practice fundamental programming concepts such as:
+- Structures and arrays
+- File handling (for future versions)
+- Function design and modular code
+- User input and console output formatting
