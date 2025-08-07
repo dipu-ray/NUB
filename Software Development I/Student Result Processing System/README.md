@@ -74,5 +74,20 @@ This project is a great way to practice fundamental programming concepts such as
 
 ---
 
+## 👤 Team Members
+> This project was developed by:
+> 1. Dipu Ray (Team Leader)
+> 2. Sujoy Biswas
+> 3. Shuvo Chandro
+
+---
+
 ## 🙌 Acknowledgments
 > Special thanks to all open-source contributors and tutorials that helped in building this project.
+> Feel free to fork, star, and contribute!
+Happy coding! 🎉
+> ```yaml
+    ---
+
+    You can copy this content into a file named `README.md` in your project folder.  
+    If you want, I can also help you with a GitHub repo setup or anything else!
