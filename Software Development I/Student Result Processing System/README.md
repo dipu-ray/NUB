@@ -86,7 +86,7 @@ This project is a great way to practice fundamental programming concepts such as
 > Special thanks to all open-source contributors and tutorials that helped in building this project.
 > Feel free to fork, star, and contribute!
 Happy coding! 🎉
-> ```yaml
+    ```yaml
     ---
 
     You can copy this content into a file named `README.md` in your project folder.  
