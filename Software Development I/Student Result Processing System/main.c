@@ -74,3 +74,30 @@ void displayStudents(struct Student students[], int count) {
                s.id, s.name, s.marks[0], s.marks[1], s.marks[2], s.total, s.average, s.grade);
     }
 }
+
+// Function to search student by ID
+void searchStudent(struct Student students[], int count) {
+    if (count == 0) {
+        printf("No student records found.\n");
+        return;
+    }
+
+    int id;
+    printf("Enter Student ID to search: ");
+    scanf("%d", &id);
+
+    for (int i = 0; i < count; i++) {
+        if (students[i].id == id) {
+            struct Student s = students[i];
+            printf("\nStudent Found:\n");
+            printf("ID: %d\n", s.id);
+            printf("Name: %s\n", s.name);
+            printf("Marks: %d, %d, %d\n", s.marks[0], s.marks[1], s.marks[2]);
+            printf("Total: %d\n", s.total);
+            printf("Average: %.2f\n", s.average);
+            printf("Grade: %c\n", s.grade);
+            return;
+        }
+    }
+    printf("Student with ID %d not found.\n", id);
+}
