@@ -54,3 +54,12 @@ This project is perfect for beginners to practice C programming fundamentals, in
 - **displayStudents():** Displays all student records neatly.
 - **searchStudent():** Finds a student by ID.
 - **main():** Menu-driven interface for user interaction.
+
+---
+
+## 🚀 Future Enhancements
+- Save and load student records from a file.
+- Update or delete existing student records.
+- Support for more subjects or dynamic number of subjects.
+- Better input validation and error handling.
+- GUI version for easier use.
