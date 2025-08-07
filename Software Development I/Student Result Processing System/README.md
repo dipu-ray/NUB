@@ -44,3 +44,13 @@ This project is perfect for beginners to practice C programming fundamentals, in
 | 70 to 79      |   C   |
 | 60 to 69      |   D   |
 | Below 60      |   F   |
+
+---
+
+## 📋 Code Structure
+- **struct Student:** Stores ID, name, marks, total, average, and grade.
+- **calculateResult():** Calculates total, average, and assigns grade.
+- **addStudent():** Adds new student details and calculates results.
+- **displayStudents():** Displays all student records neatly.
+- **searchStudent():** Finds a student by ID.
+- **main():** Menu-driven interface for user interaction.
