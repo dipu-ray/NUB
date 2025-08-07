@@ -33,3 +33,14 @@ This project is perfect for beginners to practice C programming fundamentals, in
 3. **Run the executable:**
    ```bash
    ./student_result_system
+
+---
+
+## 🎓 Grading Criteria
+| Average Score | Grade |
+| :----         | :---: |
+| 90 and above  |   A   |
+| 80 to 89      |   B   |
+| 70 to 79      |   C   |
+| 60 to 69      |   D   |
+| Below 60      |   F   |
