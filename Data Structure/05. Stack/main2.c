@@ -1,4 +1,4 @@
-// Push another element and display overflow message
+// Create a stack using an array in c and push another element and display overflow message
 
 #include <stdio.h>
 #define MAX 4

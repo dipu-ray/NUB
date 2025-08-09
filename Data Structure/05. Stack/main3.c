@@ -1,4 +1,4 @@
-// Create a stack using an array in c and push last 4 digits of your ID and display 
+// Create a stack using an array in c and pop one element and display
 
 #include <stdio.h>
 #define MAX 4
@@ -14,6 +14,16 @@ void push(int value) {
         top++;
         stack[top] = value;
         printf("Pushed %d to stack.\n", value);
+    }
+}
+
+void pop() {
+    if(top == -1) {
+        printf("Stack Underflow! Cannot pop.\n");
+    }
+    else {
+        printf("Popped %d from stack.\n", stack[top]);
+        top--;
     }
 }
 
@@ -35,6 +45,7 @@ int main() {
     push(1);
     push(4);
     push(2);
+    pop();
     display();
 
     return 0;
