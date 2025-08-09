@@ -1,6 +1,7 @@
+// Functions with no arguments and no return value
+
 #include <stdio.h>
 
-// Functions with no arguments and no return value
 void sum() {
     int a = 10;
     int b = 15;

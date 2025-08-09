@@ -1,3 +1,5 @@
+// Create and call two functions to calculate the circumference and area of a circle if the radius is given
+
 #include <stdio.h>
 #define PI 3.1416  // define constant value for pi
 

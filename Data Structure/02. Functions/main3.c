@@ -1,3 +1,5 @@
+// Create and call four functions to add, subtract, multiply and divide two numbers
+
 #include <stdio.h>
 
 int add(int a, int b) {
@@ -15,10 +17,8 @@ float divide(int a, int b) {
 
 int main() {
     int num1, num2;
-
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
-
     printf("\nSummation: %d + %d = %d\n", num1, num2, add(num1, num2));
     printf("Subtraction: %d - %d = %d\n", num1, num2, subtract(num1, num2));
     printf("Multiplication: %d * %d = %d\n", num1, num2, multiply(num1, num2));
