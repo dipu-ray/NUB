@@ -1,3 +1,5 @@
+// Checking Memory Locations and Member Variable Equality of Class Objects
+
 #include <iostream>
 #include <string>
 
