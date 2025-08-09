@@ -6,7 +6,3 @@ Section: **2F** <br>
 Semester: **2nd** <br>
 
 **Topics:** OOPS and POPS concepts.
-
-
-Here is new contain in OOP
-Here is new contain in OOP
