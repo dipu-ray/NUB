@@ -21,4 +21,5 @@ University Name: **Northern University Bangladesh**
 <details>
   <summary>3rd Semester</summary>
     - Algorithms Design and Analysis <br>
+    - Database Management System <br>
 </details>
