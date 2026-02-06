@@ -17,3 +17,8 @@ University Name: **Northern University Bangladesh**
     - Data Structures <br>
     - Software Development I <br>
 </details>
+
+<details>
+  <summary>3rd Semester</summary>
+    - Algorithms Design and Analysis <br>
+</details>
