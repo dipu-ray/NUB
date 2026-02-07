@@ -6,6 +6,3 @@ Section: **3C** <br>
 Semester: **3rd** <br>
 
 **Topics:** Abc.
-**Topics:** Abc.
-**Topics:** Abc.
-**Topics:** Abc.
