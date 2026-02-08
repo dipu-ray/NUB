@@ -2,7 +2,6 @@ Name: **Dipu Ray** <br>
 Department: **Computer Science & Engineering** <br>
 Batch: **55** <br>
 University Name: **Northern University Bangladesh** <br>
-Address: **Ashiyan City Rd, Dhaka 1230**
 
 <hr>
 
