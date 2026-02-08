@@ -26,5 +26,7 @@ University Name: **Northern University Bangladesh**
 
 <details>
   <summary>4th Semester</summary>
-    - Abc <br>
+    - Numerical Methods <br>
+    - Microprocessor and Assembly Language <br>
+    - Software Development II <br>
 </details>
