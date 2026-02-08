@@ -1,4 +1,4 @@
-<h1 align="center">Database Management System</h1>
+<h1 align="center">Numerical Methods</h1>
 
 Teacher Name: **Zarin Tasnim Rothy** <br>
 Session: **Spring 2026** <br>

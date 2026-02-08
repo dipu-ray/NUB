@@ -1,11 +1,12 @@
 Name: **Dipu Ray** <br>
-Department: **CSE** <br>
+Department: **Computer Science & Engineering** <br>
 Batch: **55** <br>
-University Name: **Northern University Bangladesh**
+University Name: **Northern University Bangladesh** <br>
+Address: **Ashiyan City Rd, Dhaka 1230**
 
 <hr>
 
-**Semester Wise Book Lists:**
+**Semester Wise Subjects Lists:**
 <details>
   <summary>1st Semester</summary>
     - Structured Programming Language <br>
