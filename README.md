@@ -6,6 +6,7 @@ University Name: **Northern University Bangladesh** <br>
 <hr>
 
 **Semester Wise Subjects Lists:**
+
 <details>
   <summary>1st Semester</summary>
     - Structured Programming Language <br>
@@ -29,4 +30,9 @@ University Name: **Northern University Bangladesh** <br>
     - Numerical Methods <br>
     - Microprocessor and Assembly Language <br>
     - Software Development II <br>
+</details>
+
+<details>
+  <summary>5th Semester</summary>
+    - Computer Architecture
 </details>
